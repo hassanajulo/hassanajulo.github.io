@@ -78,30 +78,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
-    
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -140,10 +116,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Yoruba
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
