@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Hassan Ajulo"
+title: Hassan Ajulo
 date: 2022-10-24
 type: landing
 
