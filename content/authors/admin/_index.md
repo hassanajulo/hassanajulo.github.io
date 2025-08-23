@@ -10,7 +10,7 @@ first_name: Hassan
 last_name: Ajulo
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
