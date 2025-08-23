@@ -42,6 +42,8 @@ profiles:
     url: https://github.com/hassanajulo
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hassan-ajulo-8b761a18b/
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Hassan-Ajulo
 
 interests:
   - Spatial Statistics
