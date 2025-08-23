@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Hassan Ajulo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hassan
+last_name: Ajulo
 
 # Pronouns (optional)
 pronouns: she/her
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MPhil Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: James Cook University Australia
+    url: https://www.jcu.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,13 +50,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Statistics
+  - Beyasian Statistics
+  - Machine Learning
+  - Spatial Epidemilogy
+  - Spatial Biology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MPhil
+    institution: James Cook University Australia
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -64,28 +66,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Mathematical Sciences
+    institution: African Institute for Mathematical Sciences Rwanda
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Statistics
+    institution: University of Ilorin Nigeria
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.8/4.0
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
