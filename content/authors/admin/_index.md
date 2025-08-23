@@ -37,17 +37,11 @@ profiles:
     url: 'hassan.k.ajulo@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/HassanAjulo
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hassanajulo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/hassan-ajulo-8b761a18b/
 
 interests:
   - Spatial Statistics
