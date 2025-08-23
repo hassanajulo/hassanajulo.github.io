@@ -153,4 +153,4 @@ awards:
 
 ## About Me
 
-Hassan Ajulo is a 2nd year MPhil candidate in the College of Medicine and Dentistry at James Cook University. Her research interests include spatial statistics, Bayesian statistics, and machine learning, with applications in epidemiology and biology.
+Hassan Ajulo is a 2nd year MPhil candidate in the College of Medicine and Dentistry at James Cook University. His research interests include spatial statistics, Bayesian statistics, and machine learning, with applications in epidemiology and biology.
