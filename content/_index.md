@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Hassan Ajulo"
 date: 2022-10-24
 type: landing
 
@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Upcoming Talks
       filters:
         folders:
           - event
