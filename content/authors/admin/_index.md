@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hassan Ajulo is a 2nd year MPhil candidate in the College of Medicine and Dentistry at James Cook University. Her research interests include spatial statistics, Bayesian statistics, and machine learning, with applications in epidemiology and biology.
