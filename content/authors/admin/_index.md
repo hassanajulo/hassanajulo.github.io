@@ -51,7 +51,7 @@ profiles:
 
 interests:
   - Spatial Statistics
-  - Beyasian Statistics
+  - Bayesian Statistics
   - Machine Learning
   - Spatial Epidemiology
   - Spatial Biology
