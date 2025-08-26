@@ -42,7 +42,8 @@ profiles:
     url: https://github.com/hassanajulo
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hassan-ajulo-8b761a18b/
-  - icon: brands/researchgate
+  - icon: researchgate
+    icon_pack: ai
     url: https://www.researchgate.net/profile/Hassan-Ajulo
 
 interests:
