@@ -121,5 +121,3 @@ languages:
 ## About Me
 
 Hassan Ajulo is a 2nd year MPhil Candidate in the College of Medicine and Dentistry at James Cook University. His research focuses on developing and applying statistical and machine learning methods for applications in epidemiology and biology.
-
-Our research focuses on developing robust and flexible statistical methods for clinical trials that have adaptive elements, like group sequential trials, trials that use covariate-adaptive randomization, and platform trials.
