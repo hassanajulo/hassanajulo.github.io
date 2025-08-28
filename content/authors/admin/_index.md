@@ -120,4 +120,4 @@ languages:
 
 ## About Me
 
-Hassan Ajulo is a 2nd year MPhil Candidate in the College of Medicine and Dentistry at James Cook University. His research focuses on developing and applying statistical and machine learning methods for applications in epidemiology and biology.
+Hassan Ajulo is a 2nd year MPhil Candidate in the College of Medicine and Dentistry at James Cook University. His research focuses on developing statistical and machine learning methods for applications in epidemiology and biology.
