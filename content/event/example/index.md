@@ -37,8 +37,6 @@ image:
   focal_point: Right
 
 links:
-  - type: slides
-    url: https://slideshare.net
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
