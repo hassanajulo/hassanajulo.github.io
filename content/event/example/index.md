@@ -37,12 +37,8 @@ image:
   focal_point: Right
 
 links:
-  - type: code
-    url: https://github.com
   - type: slides
     url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
