@@ -50,6 +50,7 @@ interests:
   - Spatial Statistics
   - Bayesian Statistics
   - Machine Learning
+  - Deep Learning
   - Spatial Epidemiology
   - Spatial Biology
 
