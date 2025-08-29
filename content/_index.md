@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My current work focuses on advanced machine learning methods for spatial epidemiology. Traditional epidemiological models often struggle to capture nonlinear spatial dependencies and interactions among multiple             risk factors. To address this, I have been exploring approaches that integrate spatial autocorrelation and ensemble machine learning to improve outbreak prediction, hotspot detection, and disease risk mapping. This         research provides more accurate and fine-grained insights into disease dynamics, which can support early intervention strategies and better allocation of health resources.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Building on this foundation, my next line of research will extend into deep learning methods for spatial biology, particularly in the context of spatial transcriptomics and cellular microenvironments. Deep learning         models such as convolutional neural networks, graph neural networks, and transformer architectures offer unique capabilities for modeling high-dimensional, spatially structured biological data. My goal is to                leverage these models to uncover novel biomarkers, characterize tissue heterogeneity, and better understand spatial organization in biological systems. This work has the potential to significantly advance fields            such as cancer biology, neuroscience, and precision medicine.
+
+        In the long term, I plan to focus on developing explainable Bayesian deep learning methods for applications across both epidemiology and biology. Bayesian approaches provide principled mechanisms for uncertainty            quantification, which is especially critical in biomedical contexts where decisions can have profound consequences. By combining Bayesian deep learning with explainability frameworks, I aim to create models that            are not only accurate but also transparent, trustworthy, and actionable. Such methods could, for example, provide outbreak predictions with quantified confidence levels in epidemiology, or enable robust biomarker           discovery with interpretable biological insights.
         
         Please reach out to collaborate 😃
     design:
