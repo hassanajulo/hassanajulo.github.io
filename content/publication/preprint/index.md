@@ -23,7 +23,7 @@ featured: true
 links:
 - type: custom
   label: PREPRINT
-  url: http://example.org](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147465
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147465
   
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
