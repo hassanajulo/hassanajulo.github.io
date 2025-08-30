@@ -68,7 +68,7 @@ education:
     institution: African Institute for Mathematical Sciences Rwanda
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary
+    summary:
       GPA:
   - area: BSc Statistics
     institution: University of Ilorin Nigeria
