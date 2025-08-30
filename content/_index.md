@@ -43,7 +43,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: ''
+      columns: 2
   - block: collection
     id: publications
     content:
