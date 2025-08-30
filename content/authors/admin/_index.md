@@ -53,7 +53,7 @@ interests:
   - Deep Learning
   - Spatial Epidemiology
   - Spatial Biology
-  - Spatial Environmental Sciences
+  - Spatial Environmental Science
 
 education:
   - area: MPhil [Machine Learning and Spatial Epidemiology]
