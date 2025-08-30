@@ -2,10 +2,10 @@
 title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices"
 authors:
 - admin
-date: "2025-08-31T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-31T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 publication_types: ["article"]
 
