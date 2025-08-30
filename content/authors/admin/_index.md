@@ -68,14 +68,14 @@ education:
     institution: African Institute for Mathematical Sciences Rwanda
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    summary
+      GPA:
   - area: BSc Statistics
     institution: University of Ilorin Nigeria
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    summary:
+      GPA:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
