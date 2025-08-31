@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-    
   - block: markdown
     id: research
     content:
@@ -44,12 +43,8 @@ sections:
         In the long term, I plan to focus on developing explainable Bayesian deep learning methods for applications across both epidemiology and biology. Bayesian approaches provide principled mechanisms for uncertainty   quantification, which is especially critical in biomedical contexts where decisions can have profound consequences. By combining Bayesian deep learning with explainability frameworks, I aim to create models that are not only accurate but also transparent, trustworthy, and actionable. Such methods could, for example, provide outbreak predictions with quantified confidence levels in epidemiology, enable robust biomarker discovery with interpretable biological insights, or provide climate and air quality forecasts with uncertainty estimates in environmental science.
     
         Please reach out to collaborate.
-    
     design:
-      view: 2
-      columns: '3'
-      spacing: 'auto'
-      width: 'full'
+      columns: ''
   - block: collection
     id: publications
     content:
