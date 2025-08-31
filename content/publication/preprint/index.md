@@ -2,7 +2,7 @@
 title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices"
 
 authors:
-- Hassan Ajulo
+- admin
 - Faith Alele
 - Theophilus Emeto
 - Oyelola Adegboye
