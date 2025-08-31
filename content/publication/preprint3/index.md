@@ -2,10 +2,15 @@
 title: "Spatiotemporal modelling and composite indices for pandemic preparedness: A novel geospatial-temporal approach"
 authors:
 - admin
-date: 2025-08-29T00:00:00Z
+- Theophilus Emeto
+- Faith Alele
+- Oyelola Adegboye
 
-# Schedule page publish date (NOT publication's date).
-publishDate: 2025-08-29T00:00:00Z
+date: 2025-03-21
+
+doi: "10.2139/ssrn.5170538"
+
+publishDate: 2025-08-29
 
 publication_types: ["article"]
 
@@ -25,10 +30,6 @@ links:
   label: PREPRINT
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170538
   
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 projects:
 - internal-project
 ---
