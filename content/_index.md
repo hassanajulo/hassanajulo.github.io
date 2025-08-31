@@ -45,7 +45,8 @@ sections:
         Please reach out to collaborate.
     design:
       columns: '1'
-      width: "wide"
+      spacing: 'auto'
+      width: 'full'
   - block: collection
     id: publications
     content:
