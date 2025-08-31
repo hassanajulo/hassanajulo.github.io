@@ -1,10 +1,16 @@
 ---
 title: "Geospatial modelling of COVID-19 outcomes: Insights from composite indicators for pandemic preparedness"
+
 authors:
 - admin
-date: 2025-08-29T00:00:00Z
+- Faith Alele
+- Theophilus Emeto
+- Oyelola Adegboye
 
-# Schedule page publish date (NOT publication's date).
+date: 2025-03-03
+
+doi: "10.2139/ssrn.5164611"
+
 publishDate: 2025-08-29T00:00:00Z
 
 publication_types: ["article"]
@@ -25,10 +31,6 @@ links:
   label: PREPRINT
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164611
   
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 projects:
 - internal-project
 ---
