@@ -31,7 +31,7 @@ links:
   label: PREPRINT
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147465
   
-note: "Revised version accepted for publication with Epedemiologic Reviews"
+note: "Revised version accepted for publication with Epidemiologic Reviews"
 projects:
 - internal-project
 ---
