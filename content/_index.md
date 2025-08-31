@@ -44,7 +44,6 @@ sections:
         
         Please reach out to collaborate.
     design:
-      view: 3
       columns: '1'
       width: "wide"
   - block: collection
