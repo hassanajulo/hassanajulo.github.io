@@ -41,18 +41,9 @@ sections:
         Building on this foundation, my next line of research will extend into deep learning methods for spatial biology, particularly in the context of spatial transcriptomics and cellular microenvironments. Deep learning models offer unique capabilities for modeling high-dimensional, spatially structured biological data. My goal is to leverage these models to uncover novel biomarkers, characterize tissue heterogeneity, and better understand spatial organization in biological systems. This work has the potential to significantly advance fields such as cancer biology, neuroscience, and precision medicine.
 
         In the long term, I plan to focus on developing explainable Bayesian deep learning methods for applications across both epidemiology and biology. Bayesian approaches provide principled mechanisms for uncertainty   quantification, which is especially critical in biomedical contexts where decisions can have profound consequences. By combining Bayesian deep learning with explainability frameworks, I aim to create models that are not only accurate but also transparent, trustworthy, and actionable. Such methods could, for example, provide outbreak predictions with quantified confidence levels in epidemiology, enable robust biomarker discovery with interpretable biological insights, or provide climate and air quality forecasts with uncertainty estimates in environmental science.
-
-    subtitle: ''
-      text: |-
-
-        Building on this foundation, my next line of research will extend into deep learning methods for spatial biology, particularly in the context of spatial transcriptomics and cellular microenvironments. Deep learning models offer unique capabilities for modeling high-dimensional, spatially structured biological data. My goal is to leverage these models to uncover novel biomarkers, characterize tissue heterogeneity, and better understand spatial organization in biological systems. This work has the potential to significantly advance fields such as cancer biology, neuroscience, and precision medicine.
-
-    subtitle: ''
-      text: |-
-
-        In the long term, I plan to focus on developing explainable Bayesian deep learning methods for applications across both epidemiology and biology. Bayesian approaches provide principled mechanisms for uncertainty   quantification, which is especially critical in biomedical contexts where decisions can have profound consequences. By combining Bayesian deep learning with explainability frameworks, I aim to create models that are not only accurate but also transparent, trustworthy, and actionable. Such methods could, for example, provide outbreak predictions with quantified confidence levels in epidemiology, enable robust biomarker discovery with interpretable biological insights, or provide climate and air quality forecasts with uncertainty estimates in environmental science.
-        
+    
         Please reach out to collaborate.
+    
     design:
       view: 2
       columns: '3'
