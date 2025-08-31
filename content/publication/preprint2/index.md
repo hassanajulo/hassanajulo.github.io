@@ -1,5 +1,5 @@
 ---
-title: "Geospatial modelling of COVID-19 outcomes: Insights from composite indicators for pandemic preparedness"
+title: "Geospatial modelling of COVID-19 outcomes: Insights from composite indicators for pandemic preparedness (In revision)"
 
 authors:
 - admin
