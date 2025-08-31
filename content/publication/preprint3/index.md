@@ -1,5 +1,5 @@
 ---
-title: "Spatiotemporal modelling and composite indices for pandemic preparedness: A novel geospatial-temporal approach"
+title: "Spatiotemporal modelling and composite indices for pandemic preparedness: A novel geospatial-temporal approach (In revision)"
 authors:
 - admin
 - Theophilus Emeto
