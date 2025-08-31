@@ -30,6 +30,26 @@ sections:
           size: cover
           position: center
           parallax: false
+    
+- block: features
+  id: research
+  content:
+    title: "📚 My Research"
+    items:
+      - title: Spatial Epidemiology
+        description: >
+          Advancing ML for spatial dependencies, outbreak prediction, hotspot detection, and risk mapping.
+      - title: Spatial Biology
+        description: >
+          Deep learning for spatial transcriptomics and tissue microenvironments; biomarkers and heterogeneity.
+      - title: Bayesian & Explainable DL
+        description: >
+          Uncertainty-aware, interpretable models for epidemiology, biology, climate, and air quality.
+  design:
+    view: 2        # card grid
+    columns: "3"   # this works here
+    width: "full"
+
   - block: markdown
     id: research
     content:
