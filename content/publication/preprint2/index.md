@@ -7,11 +7,11 @@ authors:
 - Theophilus Emeto
 - Oyelola Adegboye
 
-date: 2025-03-03
+date: 2025-03-25
 
 doi: "10.2139/ssrn.5164611"
 
-publishDate: 2025-08-29T00:00:00Z
+publishDate: 2025-08-29
 
 publication_types: ["article"]
 
