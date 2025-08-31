@@ -1,13 +1,16 @@
 ---
-title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices (Revised version has been accepted for publication)"
+title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices"
+
 authors:
 - Hassan Ajulo
 - Oyelola Adegboye
 - Faith Alele
 - Theophilus Emeto
-date: 2025-08-29T00:00:00Z
 
-# Schedule page publish date (NOT publication's date).
+date: 2025-08-29
+
+doi: "10.2139/ssrn.5147465"
+
 publishDate: 2025-08-29T00:00:00Z
 
 publication_types: ["article"]
@@ -28,10 +31,7 @@ links:
   label: PREPRINT
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147465
   
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+note: "Revised version accepted for publication with Epedemiologic Reviews"
 projects:
 - internal-project
 ---
