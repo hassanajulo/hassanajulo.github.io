@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'hassan.k.ajulo@gmail.com'
+    url: hassan.k.ajulo@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/HassanAjulo
@@ -42,9 +42,6 @@ profiles:
     url: https://github.com/hassanajulo
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hassan-ajulo-8b761a18b/
-  - icon: researchgate
-    icon_pack: ai
-    url: https://www.researchgate.net/profile/Hassan-Ajulo
 
 interests:
   - Spatial Statistics
