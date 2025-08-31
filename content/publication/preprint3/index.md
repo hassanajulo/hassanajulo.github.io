@@ -8,8 +8,6 @@ authors:
 
 date: 2025-03-21
 
-doi: "http://dx.doi.org/10.2139/ssrn.5170538"
-
 publishDate: 2025-08-29
 
 publication_types: ["article"]
