@@ -1,5 +1,5 @@
 ---
-title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices"
+title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices (Revised version accepted for publication in Epidemiologic Reviews)"
 
 authors:
 - admin
@@ -31,7 +31,6 @@ links:
   label: PREPRINT
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147465
   
-note: "Revised version accepted for publication with Epidemiologic Reviews"
 projects:
 - internal-project
 ---
