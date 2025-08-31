@@ -3,9 +3,9 @@ title: "Spatial and spatiotemporal machine learning models for studying COVID-19
 
 authors:
 - Hassan Ajulo
-- Oyelola Adegboye
 - Faith Alele
 - Theophilus Emeto
+- Oyelola Adegboye
 
 date: 2025-08-29
 
