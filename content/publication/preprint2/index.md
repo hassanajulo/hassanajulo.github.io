@@ -9,7 +9,7 @@ authors:
 
 date: 2025-03-25
 
-doi: "10.2139/ssrn.5164611"
+doi: "http://dx.doi.org/10.2139/ssrn.5164611"
 
 publishDate: 2025-08-29
 
