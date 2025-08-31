@@ -9,8 +9,6 @@ authors:
 
 date: 2025-03-03
 
-doi: "http://dx.doi.org/10.2139/ssrn.5147465"
-
 publishDate: 2025-08-29T00:00:00Z
 
 publication_types: ["article"]
