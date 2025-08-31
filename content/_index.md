@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    id: rsearch
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
