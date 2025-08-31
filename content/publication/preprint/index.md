@@ -1,7 +1,10 @@
 ---
-title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices"
+title: "Spatial and spatiotemporal machine learning models for studying COVID-19 dynamics: A review of methodology and reporting practices (Revised version has been accepted for publication)"
 authors:
-- admin
+- Hassan Ajulo
+- Oyelola Adegboye
+- Faith Alele
+- Theophilus Emeto
 date: 2025-08-29T00:00:00Z
 
 # Schedule page publish date (NOT publication's date).
