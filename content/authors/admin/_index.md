@@ -50,8 +50,7 @@ interests:
   - Deep Learning
   - Causal Inference
   - Epidemiological Modeling
-  - Biological Modeling
-  - Environmental Modeling
+  - Biological Data Analysis
 
 education:
   - area: MPhil Machine Learning and Spatial Epidemiology
