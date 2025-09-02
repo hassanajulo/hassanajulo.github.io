@@ -44,13 +44,13 @@ profiles:
     url: https://www.linkedin.com/in/hassan-ajulo-8b761a18b/
 
 interests:
-  - Spatial Statistics
+  - Spatial/Spatiotemporal Statistics
   - Bayesian Statistics
   - Machine Learning
   - Deep Learning
-  - Spatial Epidemiology
-  - Spatial Biology
-  - Spatial Environmental Science
+  - Epidemiological Modeling
+  - Biological Modeling
+  - Environmental Modeling
 
 education:
   - area: MPhil Machine Learning and Spatial Epidemiology
