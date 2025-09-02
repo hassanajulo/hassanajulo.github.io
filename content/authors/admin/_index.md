@@ -76,6 +76,8 @@ education:
 
 skills:
   - name:
+    color: '#556B2F'
+    color_border: '#556B2F'
     items:
       - name: R
         description: ''
@@ -90,8 +92,8 @@ skills:
         percent: 60
         icon: code-bracket
   - name:
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#556B2F'
+    color_border: '#556B2F'
     items:
       - name: Winbugs
         description: ''
