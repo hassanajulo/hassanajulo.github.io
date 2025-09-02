@@ -110,9 +110,9 @@ skills:
 
 languages:
   - name: English
-    percent: 80
+    percent: 75
   - name: Yoruba
-    percent: 100
+    percent: 95
 ---
 
 ## About Me
