@@ -73,36 +73,7 @@ education:
     date_end: 2020-12-31
     summary:
       GPA:
-    
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-    - name:
-      items:
-        - name: Py
-          description: ''
-          percent: 80
-          icon: code-bracket
-        - name: Data Science
-          description: ''
-          percent: 100
-          icon: chart-bar
-        - name: Data
-          description: ''
-          percent: 100
-          icon: chart-bar
+
 languages:
   - name: English
     percent: 100
