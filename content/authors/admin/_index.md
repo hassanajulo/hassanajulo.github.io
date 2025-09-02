@@ -89,7 +89,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-    - name:
+    - name: Hobbies
       items:
         - name: Py
           description: ''
