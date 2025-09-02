@@ -73,7 +73,7 @@ sections:
     id: skills
     content:
       title: "Technical Skills"
-      text: ""
+      text: "" 
       items:
     design:
       columns: "1"
