@@ -48,6 +48,7 @@ interests:
   - Bayesian Statistics
   - Machine Learning
   - Deep Learning
+  - Causal Inference
   - Epidemiological Modeling
   - Biological Modeling
   - Environmental Modeling
