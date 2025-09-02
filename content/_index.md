@@ -77,4 +77,12 @@ sections:
       items:
     design:
       columns: "2"
+  - block: languages
+    id: languages
+    content:
+      title: "Languages"
+      text: "" 
+      items:
+    design:
+      columns: "1"
 ---
