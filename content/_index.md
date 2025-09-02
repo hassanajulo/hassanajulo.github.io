@@ -76,5 +76,5 @@ sections:
       text: "" 
       items:
     design:
-      columns: "1"
+      columns: "2"
 ---
