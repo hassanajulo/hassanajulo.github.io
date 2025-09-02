@@ -69,4 +69,24 @@ sections:
         - [Competitive iSI Scholarship](https://ischolarinitiative.org/2023-isi-scholarship-awardees/) – i-Scholar Initiative Scholarship, 2023 
         - [Competitive ANSA Fellowship](https://www.ansaofficial.org/post/meet-the-2022-ansa-fellowship-recipients) – Association of Nigerian Scholars in America, 2022
         - [Postgraduate Degree Scholarship (Full)]() – African Institute for Mathematical Sciences, 2021
+  - block: skills
+    id: skills
+    content:
+      title: "🛠️ Technical Skills"
+      text: "A summary of my core technical abilities."
+      items:
+        - name: Programming
+          description: "Python, R, MATLAB, C++"
+          percent: 85
+        - name: Data Science
+          description: "Machine Learning, Deep Learning, Data Visualization"
+          percent: 90
+        - name: Statistics
+          description: "Bayesian Analysis, Spatial Modelling, Survival Analysis"
+          percent: 80
+        - name: Tools
+          description: "Git, Docker, Linux, LaTeX"
+          percent: 75
+    design:
+      columns: "2"
 ---
