@@ -76,7 +76,7 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name:
+  - name: Technical Skills
     items:
       - name: Python
         description: ''
