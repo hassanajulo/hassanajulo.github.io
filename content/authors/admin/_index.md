@@ -110,10 +110,8 @@ skills:
 
 languages:
   - name: English
-    percent: 100
     description: 'Fluent'
   - name: Yoruba
-    percent: 100
     description: 'Native'
 ---
 
