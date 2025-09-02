@@ -92,8 +92,8 @@ skills:
         percent: 60
         icon: code-bracket
   - name:
-    color: '#556B2F'
-    color_border: '#556B2F'
+    color: '#006400'
+    color_border: '#006400'
     items:
       - name: Winbugs
         description: ''
