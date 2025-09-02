@@ -99,6 +99,10 @@ skills:
           description: ''
           percent: 100
           icon: chart-bar
+        - name: Data Science
+          description: ''
+          percent: 100
+          icon: chart-bar
 languages:
   - name: English
     percent: 100
