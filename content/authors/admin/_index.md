@@ -91,7 +91,7 @@ skills:
         icon: circle-stack
     - name:
       items:
-        - name: Python
+        - name: Py
           description: ''
           percent: 80
           icon: code-bracket
@@ -99,7 +99,7 @@ skills:
           description: ''
           percent: 100
           icon: chart-bar
-        - name: Data Science
+        - name: Data
           description: ''
           percent: 100
           icon: chart-bar
