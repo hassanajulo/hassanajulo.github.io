@@ -75,6 +75,18 @@ sections:
       title: "Technical Skills"
       text: ""
       items:
+        - name: Python
+          description: ''
+          percent: 80
+          icon: code-bracket
+        - name: Data Science
+          description: ''
+          percent: 100
+          icon: chart-bar
+        - name: SQL
+          description: ''
+          percent: 40
+          icon: circle-stack
     design:
       columns: "1"
 ---
