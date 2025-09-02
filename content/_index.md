@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: 'Current Research and Future Work Areas'
+      title: 'Current Future and Research Work'
       subtitle: ''
       text: |-
         My current work focuses on advancing machine learning methods for spatial epidemiology. Traditional epidemiological models often struggle to capture nonlinear spatial and temporal dependencies and interactions among multiple risk factors. To address this, I have been developing approaches that integrate spatial autocorrelation, temporal structure, and machine learning to improve outbreak prediction, hotspot detection, and disease risk mapping. For example, I created a novel local spatiotemporal random forest model to study the dynamics of COVID-19 incidence across United States counties. This framework adapts to both geographic and temporal variations, capturing how epidemiological, demographic, and environmental drivers shift across regions and over time. Such methods yield more accurate and actionable results, supporting early intervention strategies and better allocation of health resources.
