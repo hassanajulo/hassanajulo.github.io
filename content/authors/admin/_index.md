@@ -112,7 +112,7 @@ languages:
   - name: English
     percent: 80
   - name: Yoruba
-    percent: 99
+    percent: 95
 ---
 
 ## About Me
