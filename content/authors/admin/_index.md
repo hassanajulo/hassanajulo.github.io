@@ -96,11 +96,11 @@ skills:
       - name: Winbugs
         description: ''
         percent: 80
-        icon: toolbox
+        icon: code-bracket
       - name: Latex
         description: ''
         percent: 90
-        icon: toolbox
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 80
