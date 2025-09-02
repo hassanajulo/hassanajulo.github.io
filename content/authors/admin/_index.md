@@ -73,6 +73,8 @@ education:
     date_end: 2020-12-31
     summary:
       GPA:
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name:
     items:
