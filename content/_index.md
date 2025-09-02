@@ -75,18 +75,6 @@ sections:
       title: "Technical Skills"
       text: ""
       items:
-        - name: Programming
-          description: "Python, R, MATLAB, C++"
-          percent: 85
-        - name: Data Science
-          description: "Machine Learning, Deep Learning, Data Visualization"
-          percent: 90
-        - name: Statistics
-          description: "Bayesian Analysis, Spatial Modelling, Survival Analysis"
-          percent: 80
-        - name: Tools
-          description: "Git, Docker, Linux, LaTeX"
-          percent: 75
     design:
-      columns: "2"
+      columns: "1"
 ---
