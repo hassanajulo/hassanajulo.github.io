@@ -75,34 +75,36 @@ education:
       GPA:
 
 skills:
-  - name: Technical Skills
+  - name:
     items:
+      - name: R
+        description: ''
+        percent: 100
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 60
+        icon: code-bracket
+  - name:
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Winbugs
+        description: ''
+        percent: 80
+        icon: toolbox
+      - name: Latex
+        description: ''
+        percent: 90
+        icon: toolbox
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
-    - name: Hobbies
-      items:
-        - name: Py
-          description: ''
-          percent: 80
-          icon: code-bracket
-        - name: Data Science
-          description: ''
-          percent: 100
-          icon: chart-bar
-        - name: Data
-          description: ''
-          percent: 100
-          icon: chart-bar  
 
 languages:
   - name: English
