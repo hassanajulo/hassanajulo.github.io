@@ -74,7 +74,7 @@ education:
     summary:
       GPA:
 skills:
-  - name: Technical Skills
+  - name:
     items:
       - name: Python
         description: ''
