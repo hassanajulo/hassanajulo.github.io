@@ -73,8 +73,7 @@ education:
     date_end: 2020-12-31
     summary:
       GPA:
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+    
 skills:
   - name: Technical Skills
     items:
@@ -110,3 +109,5 @@ languages:
 ## About Me
 
 Hassan Ajulo is a final-year MPhil Candidate in the College of Medicine and Dentistry at James Cook University. His research focuses on developing statistical and machine learning methods motivated by ample information in epidemiological, biological, and environmental data.
+
+
