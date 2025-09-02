@@ -89,6 +89,20 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+    - name:
+      items:
+        - name: Py
+          description: ''
+          percent: 80
+          icon: code-bracket
+        - name: Data Science
+          description: ''
+          percent: 100
+          icon: chart-bar
+        - name: Data
+          description: ''
+          percent: 100
+          icon: chart-bar  
 
 languages:
   - name: English
