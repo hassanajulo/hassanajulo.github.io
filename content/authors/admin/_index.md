@@ -76,8 +76,8 @@ education:
 
 skills:
   - name:
-    color: '#556B2F'
-    color_border: '#556B2F'
+    color: '#6B8E23'
+    color_border: '#6B8E23'
     items:
       - name: R
         description: ''
