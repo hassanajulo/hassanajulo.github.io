@@ -50,7 +50,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Selected Publications
       text: ""
       filters:
         folders:
