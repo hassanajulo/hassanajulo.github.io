@@ -63,7 +63,8 @@ sections:
     content:
       title: "Selected Awards & Honors"
       text: |-
-        - [Travel Grant](https://rhed.amsi.org.au/grant-recipients/) – AMSI BioInfoSummer, 2024
+        - [Research Dissemination Grant]() – James Cook University, 2025
+        - [Travel Grant](https://rhed.amsi.org.au/grant-recipients/) – Australian Mathematical Science Institute BioInfoSummer, 2024
         - [Postgraduate Research Scholarship (Full)]() – James Cook University, 2023
         - [Competitive iSI Scholarship](https://ischolarinitiative.org/2023-isi-scholarship-awardees/) – i-Scholar Initiative Scholarship, 2023 
         - [Competitive ANSA Fellowship](https://www.ansaofficial.org/post/meet-the-2022-ansa-fellowship-recipients) – Association of Nigerian Scholars in America, 2022
