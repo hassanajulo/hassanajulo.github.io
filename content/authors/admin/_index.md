@@ -47,7 +47,6 @@ interests:
   - Spatial/Spatiotemporal Statistics
   - Bayesian Statistics
   - Machine Learning
-  - Deep Learning
   - Causal Inference
   - Epidemiological Modeling
   - Biological Data Analysis
