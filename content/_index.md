@@ -57,7 +57,7 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: "Selected Awards & Honors"
+      title: "Selected Academic Recognition"
       text: |-
         - [Research Dissemination Grant]() – James Cook University, 2025
         - [AMSI Travel Grant](https://rhed.amsi.org.au/grant-recipients/) – Australian Mathematical Science Institute BioInfoSummer, 2024
