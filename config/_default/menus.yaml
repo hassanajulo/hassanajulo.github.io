@@ -19,6 +19,3 @@ main:
   - name: Technical Skills
     url: /#skills
     weight: 14
-  - name: Languages
-    url: /#languages
-    weight: 15
