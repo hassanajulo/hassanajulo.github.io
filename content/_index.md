@@ -65,7 +65,6 @@ sections:
           University of the Sunshine Coast  
           Topics: Outbreak investigation, Geospatial methods
   - block: features
-    id: teaching
     content:
       title: "👨‍🏫 Teaching Experience"
       items:
