@@ -53,6 +53,18 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: teaching
+    content:
+      title: "👨‍🏫 Teaching Experience"
+      text: |-
+        - **Teaching Assistant – Biostatistics (2023–2024)**  
+          James Cook University, College of Medicine and Dentistry  
+          Topics: Regression, Bayesian Methods, Survival Analysis  
+
+        - **Guest Lecturer – Epidemiology (2022)**  
+          University of the Sunshine Coast  
+          Topics: Outbreak investigation, Geospatial methods  
+  - block: markdown
     id: awards
     content:
       title: "Selected Academic Recognition"
