@@ -68,11 +68,11 @@ sections:
     content:
       title: "👨‍🏫 Teaching Experience"
       items:
-        - title: Teaching Assistant – Biostatistics
+        - title: Teaching Assistant
           description: James Cook University (2023–2024). Topics: Regression, Bayesian Methods, Survival Analysis.
           icon: chalkboard-teacher
           icon_pack: fas
-        - title: Guest Lecturer – Epidemiology
+        - title: Guest Lecturer
           description: University of the Sunshine Coast (2022). Topics: Outbreak investigation, Geospatial methods.
           icon: user-graduate
           icon_pack: fas
