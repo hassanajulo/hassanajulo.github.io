@@ -63,7 +63,23 @@ sections:
 
         - **Guest Lecturer – Epidemiology (2022)**  
           University of the Sunshine Coast  
-          Topics: Outbreak investigation, Geospatial methods  
+          Topics: Outbreak investigation, Geospatial methods
+  - block: features
+    id: teaching
+    content:
+      title: "👨‍🏫 Teaching Experience"
+      items:
+        - title: Teaching Assistant – Biostatistics
+          description: James Cook University (2023–2024). Topics: Regression, Bayesian Methods, Survival Analysis.
+          icon: chalkboard-teacher
+          icon_pack: fas
+        - title: Guest Lecturer – Epidemiology
+          description: University of the Sunshine Coast (2022). Topics: Outbreak investigation, Geospatial methods.
+          icon: user-graduate
+          icon_pack: fas
+    design:
+      view: 2
+      columns: "2"
   - block: markdown
     id: awards
     content:
