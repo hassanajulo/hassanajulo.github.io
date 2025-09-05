@@ -46,8 +46,8 @@ profiles:
 interests:
   - Spatial/Spatiotemporal Statistics
   - Bayesian Statistics
-  - Machine Learning
   - Causal Inference
+  - Machine Learning
   - Epidemiological Modeling
   - Biological Data Analysis
 
