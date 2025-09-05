@@ -57,7 +57,7 @@ sections:
     content:
       title: "Teaching Experience"
       text: |-
-        - **Assistant Lecturer – (Nov., 2018 – Oct., 2019)**  
+        - **Assistant Lecturer – (Nov. 2018 – Oct. 2019)**  
           Department of Mathematics and Statistics, The Oke-Ogun Polytechnic Saki  
           Topics: Descriptive Statistics, Statistical Regression Methods, Intoductory Linear Algebra, Non-Paramtric Methods
   - block: markdown
