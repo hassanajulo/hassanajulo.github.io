@@ -84,7 +84,7 @@ skills:
         icon: code-bracket
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: C
         description: ''
