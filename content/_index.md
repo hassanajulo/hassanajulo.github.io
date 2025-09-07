@@ -65,7 +65,7 @@ sections:
     content:
       title: "Selected Academic Recognition"
       text: |-
-        - [Research Dissemination Grant]() – James Cook University, 2025
+        - [Research Dissemination Grant]() – James Cook University Australia, 2025
         - [AMSI Travel Grant](https://rhed.amsi.org.au/grant-recipients/) – Australian Mathematical Sciences Institute BioInfoSummer, 2024
         - [Postgraduate Research Scholarship (Full)]() – James Cook University Australia, 2023
         - [Competitive iSI Scholarship](https://ischolarinitiative.org/2023-isi-scholarship-awardees/) – i-Scholar Initiative, 2023 
